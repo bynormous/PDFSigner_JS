@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/MQuaresma/PDFSigner_JS/issues"
   },
-  "homepage": "https://github.com/MQuaresma/PDFSigner_JS#readme"
+  "homepage": "https://github.com/MQuaresma/PDFSigner_JS#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
